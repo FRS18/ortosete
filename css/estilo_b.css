@@ -1,0 +1,117 @@
+.widget_social_b {
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 8px;
+}
+
+.social-icons_b {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 10px;
+}
+
+.social-icons_b li {
+    margin: 0;
+}
+
+.social-icons_b a {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.social-icons_b a span {
+    display: none;
+}
+
+/* Example colors for different social media */
+.social-icons_b .whatsapp_b {
+    background-color: #25D366;
+}
+
+.social-icons_b .facebook_b {
+    background-color: #3b5998;
+}
+
+.social-icons_b .twitter_b {
+    background-color: #1DA1F2;
+}
+
+.social-icons_b .instagram_b {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+}
+
+.social-icons_b .linkedin_b {
+    background-color: #0077b5;
+}
+
+.social-icons_b a:hover {
+    opacity: 0.7;
+}
+
+
+
+/* Outros */
+
+.texto1{
+	font: 14px arial;
+}
+.texto2{
+	font: 14px arial;
+	font-weight: bold;
+}
+
+.pularlinhatabela{
+	height:20px;	
+}
+
+
+.inputpadrao{
+	font: 17px arial;
+	width:290px;
+	height:25px;
+	border:0px;	
+	background-color: #EFEFEF;
+}
+
+ /* Estilos para o botão */
+  .custom-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: #36332E; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  /* Efeito de hover */
+  .custom-button:hover {
+    background-color: #63C3D7; /* Cor de fundo quando passa o mouse */
+  }
+  
+.contentsss {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    width: 100%;
+}
+
+.titulo1{
+	font: 30px arial;
+	color: #202020;
+}
