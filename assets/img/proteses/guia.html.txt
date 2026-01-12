@@ -1,0 +1,630 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]>                  <html class="ie7 no-js" lang="pt">     <![endif]-->
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="pt">     <![endif]-->
+<!--[if IE 9]>                  <html class="ie9 no-js" lang="pt">     <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="not-ie no-js" lang="pt">  <!--<![endif]-->
+<head>
+    <link href='http://fonts.googleapis.com/css?family=Over+the+Rainbow|Open+Sans:300,400,400italic,600,700|Arimo|Oswald|Lato|Ubuntu' rel='stylesheet' type='text/css'>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    <title>Orto Sete / Ortopédica em Bh / Órteses e Próteses em Bh</title>
+    
+    <meta name="description" itemprop="description" content="Orto Sete / Ortopédica em Bh / Órteses e Próteses em Bh" />
+    
+    
+
+
+<meta name="keywords" itemprop="keywords" content="description" content="Orto Sete / Ortopédica em Bh / Órteses e Próteses em Bh" />
+    <meta name="description" content="description" content="Orto Sete / Ortopédica em Bh / Órteses e Próteses em Bh">
+    <meta name="author" content="Nick Douglas - flexdesign.com.br">
+    
+    <link rel="shortcut" href="images/favicon.png" />
+
+    <link rel="stylesheet" href="css/skeleton.css" media="screen" />
+    <link rel="stylesheet" href="css/style.css" media="screen" />
+    <link rel="stylesheet" href="css/mediaelementplayer.css" media="screen" />
+    <link rel="stylesheet" href="fancybox/jquery.fancybox.css" media="screen" />
+
+
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400">
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Sans">
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster">
+        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="assets/css/animate.css">
+        <link rel="stylesheet" href="assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="assets/flexslider/flexslider.css">
+        <link rel="stylesheet" href="assets/css/form-elements.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/media-queries.css">
+
+
+
+    
+    <!-- REVOLUTION BANNER CSS SETTINGS -->
+    <link rel="stylesheet" href="rs-plugin/css/settings.css" media="screen" />  
+    
+    <!-- HTML5 SHIV + DETECT TOUCH EVENTS -->
+    <script type="text/javascript" src="js/modernizr.custom.js"></script>
+</head>
+<body class="color-1 h-style-1 text-1">
+    
+    <!-- - - - - - - - - - - - - - Header - - - - - - - - - - - - - - - - -->   
+    
+    <header id="header">
+        
+        <div class="container">
+            <!-- - - - - - - - - - - - Logo - - - - - - - - - - - - - -->   
+            
+            <a href="index.html" id="logo">
+                <img src="images/logo.png" alt="" width="317" height="94" />
+            </a><!--/ #logo-->  
+            
+            <!-- - - - - - - - - - - end Logo - - - - - - - - - - - - -->
+            
+            <!-- - - - - - - - - - - - Event Holder - - - - - - - - - - - - - -->   
+            
+            
+            
+            <!-- - - - - - - - - - - end Event Holder - - - - - - - - - - - - -->   
+            
+            <div class="clear"></div>
+            
+            <!-- - - - - - - - - - - - - Navigation - - - - - - - - - - - - - - --> 
+
+            <nav id="navigation" class="navigation clearfix">
+
+               <ul class="clearfix">
+					<li><a href="index.html">Home</a></li>
+					
+					<li><a href="quemsomos.html">Quem Somos</a></li>
+					<li><a href="#">Proteses</a>
+						<ul>
+							<li><a href="membrossuperiores.html">Membros Superiores</a></li>
+							<li><a href="membrosinferiores.html">Membros Inferiores</a></li>
+						</ul>
+					</li>
+					<li><a href="orteses.html">Órteses</a>
+								
+					</li>
+                    <li class="current-menu-item"><a href="guia.html">Guia do Amputado</a>
+                    <li><a href="contato.html">Localização</a>
+								
+					</li>
+							
+					<li><a href="contato.html">Contato</a></li>
+				</ul>
+				
+			</nav><!--/ #navigation-->
+
+			<!-- - - - - - - - - - - - end Navigation - - - - - - - - - - - - - -->	
+			
+		</div><!--/ .container-->
+		
+	</header><!--/ #header-->
+    
+    <!-- - - - - - - - - - - - - - end Header - - - - - - - - - - - - - - - - -->   
+    
+    <!-- - - - - - - - - - - - - - Page Header - - - - - - - - - - - - - - - -->        
+    
+    <section class="page-header">
+        
+        <div class="container">
+            
+            <h1>Guia do Amputado</h1>
+            
+        </div><!--/ .container-->
+        
+    </section><!--/ .page-header-->
+    
+    <!-- - - - - - - - - - - - - end Page Header - - - - - - - - - - - - - - --> 
+
+
+ <!-- Call To Action --><!-- Call To Action -->
+        <div class="call-to-action-container">
+        	<div class="container">
+	            <div class="row">
+	                <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+                      <p>
+	                    	
+                            
+                           <strong>Parcial da Mão</strong>
+                           
+                           
+                      <div id="cke_pastebin"><strong>Níveis de Amputação:</strong></div>
+                      <div id="cke_pastebin"> </div>
+                      <div id="cke_pastebin">Estes níveis de amputaçao nos permitem somente a colocação de próteses estéticas.</div>
+                      <div id="cke_pastebin">Amputação dos Dedos</div>
+                      <div id="cke_pastebin">Ressecção em Raios</div>
+                      <div id="cke_pastebin">Amputação Transmetacarpica</div>
+                      <div id="cke_pastebin"> </div>
+                      <div id="cke_pastebin"><strong>Tipos de cartucho:</strong></div>
+                      <div id="cke_pastebin"> </div>
+                      <div id="cke_pastebin">Para este nível de amputação, o cartucho pode ser confeccionado por diferentes tipos de materiais, sao eles, silicone, plastazote, polipropileno ou fibra de carbono, não existe uma classificação exata sobre este tipo de cartucho, pois existem inúmeras possibilidades e tipos de amputações englobadas neste nível.</div>
+                      <p>                      
+                  </div>
+              </div>
+          </div>
+    </div>
+
+<!-- Call To Action --><!-- Call To Action -->
+        <div class="call-to-action-container">
+        	<div class="container">
+	            <div class="row">
+                  <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+                    <p>
+	                    	
+                            
+                           <strong>Transradial</strong>
+                           
+                           
+                    <div id="cke_pastebin3"><strong>Níveis de Amputação:</strong></div>
+                      <div id="cke_pastebin3"> </div>
+                      <div id="cke_pastebin3">É uma amputação abaixo do cotovelo, entre a articulaçao do punho e a articulaçao do cotovelo. Normalmente a suspensao da prótese é dada na regiao supracondilar ou através de sistema de silicone. Este nível pode ser classificado de tres maneiras diferentes com relaçao aos tamanhos. Ex. Pode ser Amputaçao Transradial Proximal ou Medial ou Distal.</div>
+                      <div id="cke_pastebin3"> </div>
+                      <div id="cke_pastebin3"><strong>Tipos de Cartucho:</strong></div>
+                      <div id="cke_pastebin3"> </div>
+                      <div id="cke_pastebin3">Amputaçao Transradial (pode ser Distal, Medial ou Proximal): Para as amputaçoes transradiais, existem diversas variedades que podem ser feitas para o paciente, os materiais empregados para este tipo de cartucho sao, fibra de carbono, surlin extra-flexível, Silicone. A suspensao pode ser feita supra condilar, por correia, através de cotoveleira ou com o sistema de pino.</div>
+                    <p>                      
+                  </div>
+              </div>
+          </div>
+    </div>
+    
+    <!-- Call To Action --><!-- Call To Action -->
+        <div class="call-to-action-container">
+        	<div class="container">
+	            <div class="row">
+                  <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+                    <p>
+	                    	
+                            
+                           <strong>Transumeral</strong>
+                           
+                           
+                    <div id="cke_pastebin5"><strong>Níveis de Amputação:</strong></div>
+                      <div id="cke_pastebin5"> </div>
+                      <div id="cke_pastebin5">É uma amputação acima do cotovelo, entre a articulação do cotovelo e a articulação do ombro. A suspensão da prótese pode ser dada por correias ou por sistema de silicone. Este nível pode ser classificado de três maneiras diferentes com relação aos tamanhos. Ex. Pode ser Amputação Transumeral Proximal ou Medial ou Distal.</div>
+                      <div id="cke_pastebin5"> </div>
+                      <div id="cke_pastebin5"><strong>Tipos de Cartucho:</strong></div>
+                      <div id="cke_pastebin5"> </div>
+                      <div id="cke_pastebin5">Amputação Transumeral (pode ser Distal, Medial ou Proximal): Para amputações transumerais, o cartucho pode ser confeccionado em, fibra de carbono e Surlin Extra-flexível ou Silicone. A suspensão é dada através de correias ou pelo pino da meia de silicone.</div>
+                    <p>                      
+                  </div>
+              </div>
+          </div>
+    </div>
+    
+    <!-- Call To Action --><!-- Call To Action -->
+        <div class="call-to-action-container">
+        	<div class="container">
+	            <div class="row">
+                  <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+                    <p>
+	                    	
+                            
+                           <strong>Desarticulação do Punho</strong>
+                           
+                           
+                    <div id="cke_pastebin2"><strong>Níveis de Amputação:</strong></div>
+                      <div id="cke_pastebin2"> </div>
+                      <div id="cke_pastebin2">Preserva-se os ossos do Rádio e Ulna por completo.</div>
+                      <div id="cke_pastebin2"> </div>
+                      <div id="cke_pastebin2"><strong>Tipos de cartucho:</strong></div>
+                      <div id="cke_pastebin2"> </div>
+                      <div id="cke_pastebin2">Neste nível de amputação podemos confeccionar o cartucho em fibra de carbono ou em polipropileno, podendo ser usado também um sistema de meia de silicone. Normalmente este tipo de cartucho é confeccionado com uma janela, pois a parte distal normalmente tem uma espessura maior que as extremidades dos ossos rádio e ulna na região do punho. A suspensao é dada pela janela aberta no Cartucho.</div>
+                    <p>                      
+                  </div>
+              </div>
+          </div>
+    </div>
+    
+    <!-- Call To Action --><!-- Call To Action -->
+        <div class="call-to-action-container">
+        	<div class="container">
+	            <div class="row">
+                  <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+                    <p>
+	                    	
+                            
+                           <strong>Desarticulação do Cotovelo</strong>
+                           
+                           
+                    <div>
+                        <div>
+                          <div id="cke_pastebin4"><strong>Níveis de Amputação:</strong></div>
+                          <div id="cke_pastebin4"> </div>
+                          <div id="cke_pastebin4">Estes níveis de amputaçao nos permitem somente a colocação de próteses estéticas.</div>
+                          <div id="cke_pastebin4">Amputação dos Dedos</div>
+                          <div id="cke_pastebin4">Ressecção em Raios</div>
+                          <div id="cke_pastebin4">Amputação Transmetacarpica</div>
+                          <div id="cke_pastebin4"> </div>
+                          <div id="cke_pastebin4"><strong>Tipos de cartucho:</strong></div>
+                          <div id="cke_pastebin4"> </div>
+                          <div id="cke_pastebin4">Para este nível de amputação, o cartucho pode ser confeccionado por diferentes tipos de materiais, sao eles, silicone, plastazote, polipropileno ou fibra de carbono, não existe uma classificação exata sobre este tipo de cartucho, pois existem inúmeras possibilidades e tipos de amputações englobadas neste nível.</div>
+                        </div>
+                    </div>
+                      <div>
+                        <div>
+                          <div id="cke_pastebin4">
+                            <div id="cke_pastebin4"><strong>Níveis de Amputação:</strong></div>
+                            <div id="cke_pastebin4"> </div>
+                            <div id="cke_pastebin4">Preserva-se os ossos do Rádio e Ulna por completo.</div>
+                            <div id="cke_pastebin4"> </div>
+                            <div id="cke_pastebin4"><strong>Tipos de cartucho:</strong></div>
+                            <div id="cke_pastebin4"> </div>
+                            <div id="cke_pastebin4">Neste nível de amputação podemos confeccionar o cartucho em fibra de carbono ou em polipropileno, podendo ser usado também um sistema de meia de silicone. Normalmente este tipo de cartucho é confeccionado com uma janela, pois a parte distal normalmente tem uma espessura maior que as extremidades dos ossos rádio e ulna na região do punho. A suspensao é dada pela janela aberta no Cartucho.</div>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <div>
+                          <div id="cke_pastebin4"><strong>Níveis de Amputação:</strong></div>
+                          <div id="cke_pastebin4"> </div>
+                          <div id="cke_pastebin4">É uma amputação abaixo do cotovelo, entre a articulaçao do punho e a articulaçao do cotovelo. Normalmente a suspensao da prótese é dada na regiao supracondilar ou através de sistema de silicone. Este nível pode ser classificado de tres maneiras diferentes com relaçao aos tamanhos. Ex. Pode ser Amputaçao Transradial Proximal ou Medial ou Distal.</div>
+                          <div id="cke_pastebin4"> </div>
+                          <div id="cke_pastebin4"><strong>Tipos de Cartucho:</strong></div>
+                          <div id="cke_pastebin4"> </div>
+                          <div id="cke_pastebin4">Amputaçao Transradial (pode ser Distal, Medial ou Proximal): Para as amputaçoes transradiais, existem diversas variedades que podem ser feitas para o paciente, os materiais empregados para este tipo de cartucho sao, fibra de carbono, surlin extra-flexível, Silicone. A suspensao pode ser feita supra condilar, por correia, através de cotoveleira ou com o sistema de pino.</div>
+                        </div>
+                      </div>
+                      <div>
+                        <div>
+                          <div id="cke_pastebin4"><strong>Níveis de Amputação:</strong></div>
+                          <div id="cke_pastebin4"> </div>
+                          <div id="cke_pastebin4">É uma amputaçao onde se retira toda parte da articulaçao do cotovelo para baixo preservando o Úmero por completo.</div>
+                          <div id="cke_pastebin4"> </div>
+                          <div id="cke_pastebin4"><strong>Tipos de Cartucho:</strong></div>
+                          <div id="cke_pastebin4"> </div>
+                          <div id="cke_pastebin4">Desarticulação do Cotovelo: No caso das desarticulações de Cotovelo, costuma-se fazer o cartucho em fibra de carbono e Surlin Extra-flexível, é feita uma janela na região posterior do encaixe para que a pessoa possa ter maior liberdade de movimentos. A suspensão é dada pela janela aberta no Cartucho.</div>
+                        </div>
+                      </div>
+                    <p>                      
+                  </div>
+              </div>
+          </div>
+    </div>
+    
+    <!-- Call To Action --><!-- Call To Action -->
+        <div class="call-to-action-container">
+        	<div class="container">
+	            <div class="row">
+                  <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+                    <p>
+	                    	
+                            
+                           <strong>Desarticulação de Ombro</strong>
+                           
+                           
+                    <div>
+                        <div>
+                          <div id="cke_pastebin6">
+                            <div id="cke_pastebin7"><strong>Níveis de Amputação:</strong></div>
+                            <div id="cke_pastebin7"> </div>
+                            <div id="cke_pastebin7">É uma amputação onde se retira todo o Braço (desde o Úmero, Rádio, Ulna e ossos da mão).</div>
+                            <div id="cke_pastebin7"> </div>
+                            <div id="cke_pastebin7"><strong>Tipos de Cartucho:</strong></div>
+                            <div id="cke_pastebin7"> </div>
+                            <div id="cke_pastebin7">Desarticulação do Ombro: Neste sistema o cartucho é confeccionado, com fibra de carbono e surlin extra-flexível. A suspensão é dada através de correias.</div>
+                          </div>
+                        </div>
+                    </div>
+                      <div>
+                        <div>
+                          <div>
+                            <h3>DESARTICULAÇÃO DO ESCAPULOUMERAL</h3>
+                            <div>
+                              <div>
+                                <div id="cke_pastebin6">
+                                  <div id="cke_pastebin7">
+                                    <div id="cke_pastebin8"><strong>Níveis de Amputação:</strong></div>
+                                    <div id="cke_pastebin8"> </div>
+                                    <div id="cke_pastebin8">É uma amputação onde se retira todo o Braço inclusive os ossos da Escápula e Clavícula.</div>
+                                    <div id="cke_pastebin8"> </div>
+                                    <div id="cke_pastebin8"><strong>Tipos de Cartucho:</strong></div>
+                                    <div id="cke_pastebin8"> </div>
+                                    <div id="cke_pastebin8">Desarticulação Escapuloumeral: Para este nível de amputação temos que esculpir um ombro para o paciente, propiciando que a prótese receba uma articulação do ombro.</div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    <p>                      
+                  </div>
+              </div>
+          </div>
+    </div>
+    
+    <!-- Call To Action --><!-- Call To Action -->
+        <div class="call-to-action-container">
+        	<div class="container">
+	            <div class="row">
+                  <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+                    <p>
+	                    	
+                            
+                           <strong>Parciais do Pé</strong>
+                           
+                           
+                    <div id="cke_pastebin9"><strong>Níveis de Amputação:</strong></div>
+                      <div id="cke_pastebin9"> </div>
+                      <div id="cke_pastebin9"><strong><em>Interfalangeana: </em></strong>Geralmente causada por processos traumáticos ou problemas vasculares, podendo levar a amputações expontâneas. Procura-se preservar a base da falange proximal porque nela se encontra a inserção dos tendões extensor e flexor  curto dos dedos.  Ex.: Amputação do Hálux, procurando manter a base da falange proximal, pois nela encontra-se a inserção dos tendões extensor e flexor curto.</div>
+                      <div id="cke_pastebin9"><strong><em>Metacarpofalangeana:</em></strong> Geralmente causada por processos traumáticos ou problemas vasculares. É uma desarticulação, a superfície cartilaginosa é removida e os tendões flexores e extensores são fixados nos metatarsos.</div>
+                      <div id="cke_pastebin9"><strong><em>Transmetatarsianas:</em> </strong>Geralmente causada por processos traumáticos ou problemas vasculares. É realizada a secção óssea do primeiro ao quinto metatarso. A descarga de peso é distal, na extremidade do coto.</div>
+                      <div id="cke_pastebin9"><strong><em>Lisfranc:</em></strong> Geralmente causada por problemas vasculares. É uma desarticulação dos metatarsos com os ossos cubóide e cuneiforme.</div>
+                      <div id="cke_pastebin9"><strong><em>Chopart:</em></strong> É uma desarticulação realizada entre os ossos navicular e cubóide com o tálus e o calcâneo. Conhecida como amputação do retropé, geralmente de causa traumática e em menor incidência de origem tumoral. O padrão do coto forma um curto braço de alavanca, evoluindo para um equino importante, com redução da área de apoio.</div>
+                      <div id="cke_pastebin9"><strong><em>Syme:</em></strong> Geralmente causada por processos traumáticos, problemas vasculares, anomalias congênitas ou adquiridas. É realizada uma desarticulação do tornozelo, com secção óssea abaixo dos maleolos lateral e medial</div>
+                      <div id="cke_pastebin9"><strong><em>Pirigoff:</em></strong> É uma amputação muito parecida com a de Syme, onde é realizada uma artrodese  entre a tíbia e uma parte do calcâneo, para que este forneça uma almofada distal.</div>
+                      <div id="cke_pastebin9"> </div>
+                      <div id="cke_pastebin9"> </div>
+                      <div id="cke_pastebin9"><strong>Tipos de Cartuchos:</strong></div>
+                      <div id="cke_pastebin9"> </div>
+                      <div id="cke_pastebin9"><em><strong>Amputações parciais do pé:</strong></em> Para este nível de amputação, o cartucho pode ser confeccionado por diferentes tipos de materiais, são eles, silicone, plastazote, polipropileno ou fibra de carbono, não existe uma classificação exata sobre este tipo de cartucho, pois existem inúmeras possibilidades e tipos de amputações englobadas neste nível.</div>
+                      <div id="cke_pastebin9"><em><strong>Desarticulação do Tornozelo:</strong></em> Neste nível de amputação podemos confeccionar o cartucho em fibra de carbono ou em polipropileno, podendo ser usado também um sistema de meia de silicone, o apoio desta prótese pode ser feito tanto na região distal do coto (apoio com a parte de baixo do membro) como também pode ser dividido com apoio infrapatelar. Normalmente este tipo de cartucho é confeccionado com uma janela, pois a parte distal normalmente tem uma espessura maior que a região do tornozelo. A suspensão é dada pela janela aberta no Cartucho.</div>
+                    <p>                      
+                  </div>
+              </div>
+          </div>
+    </div>
+
+
+ <!-- Call To Action --><!-- Call To Action -->
+        <div class="call-to-action-container">
+        	<div class="container">
+	            <div class="row">
+                  <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+                    <p>
+	                    	
+                            
+                           <strong>Transtibial</strong>
+                           
+                           
+                    <div id="cke_pastebin10"><strong>Níveis de Amputação:</strong></div>
+                      <div id="cke_pastebin10"> </div>
+                      <div id="cke_pastebin10">É uma amputação abaixo do joelho, entre a articulação do tornozelo e a articulação do joelho. Normalmente o apoio da prótese é dado no tendão infrapatelar, podendo a carga ser divida na região medial do Coto. Este nível pode ser classificado de três maneiras diferentes com relação aos tamanhos. Ex. Pode ser Amputação Transtibial Proximal ou Medial ou Distal.</div>
+                      <div id="cke_pastebin10"> </div>
+                      <div id="cke_pastebin10"><strong>Tipos de Cartucho:</strong></div>
+                      <div id="cke_pastebin10"> </div>
+                      <div id="cke_pastebin10">Para amputações transtibiais os mais conhecidos são:</div>
+                      <div id="cke_pastebin10"> </div>
+                      <div id="cke_pastebin10"><strong><em>KBM (Kondylen Bettung Münster):</em></strong> Este sistema de encaixe foi desenvolvido na Alemanha em 1968, e até hoje em dia é o sistema mais usado para amputações Transtibiais. O cartucho é confeccionado na sua parte externa em fibra de carbono, na parte interna em EVA, o apoio é dado no tendão infrapatelar e a suspensão geralmente é na região supracondilar, esta pode ser alterada quando o cartucho interno de EVA for substituído por meia de silicone com pino.</div>
+                      <div id="cke_pastebin10"> </div>
+                      <div id="cke_pastebin10"><strong><em>PTS (Prothese Tibiale Supracondylienne):</em></strong> Este sistema de encaixe foi desenvolvido no centro de Nancy em 1964, este sistema é bastante indicado para amputações Transtibiais Proximais, pois ele aumenta a suspensão por ter a patela oclusa e evita que o coto entre em hiperextensão. O cartucho é confeccionado na sua parte externa em fibra de carbono, na parte interna em EVA, o apoio é dado no tendão infrapatelar e a suspensão geralmente é na região supracondilar, esta pode ser alterada quando o cartucho interno de EVA for substituído por meia de silicone com pino.</div>
+                      <div id="cke_pastebin10"> </div>
+                      <div id="cke_pastebin10"><strong><em>PTB (Patelar Tendon Bearing):</em></strong> Este sistema de encaixe foi desenvolvido nos EUA em 1959. O cartucho é confeccionado na sua parte externa em fibra de carbono, na parte interna em EVA, o apoio é dado no tendão infrapatelar e a suspensão é feita através de uma correia de couro, esta pode causar atrofia na musculatura da coxa. </div>
+                    <p>                      
+                  </div>
+              </div>
+          </div>
+    </div>
+    
+     <!-- Call To Action --><!-- Call To Action -->
+        <div class="call-to-action-container">
+        	<div class="container">
+	            <div class="row">
+                  <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+                    <p>
+	                    	
+                            
+                           <strong>Desarticulação do joelho</strong>
+                           
+                           
+                    <div id="cke_pastebin11"><strong>Níveis de Amputação:</strong></div>
+                      <div id="cke_pastebin11"> </div>
+                      <div id="cke_pastebin11">É uma amputação onde se retira toda parte da articulação do joelho para baixo (Tíbia, Fíbula, ossos do pé), a patela pode ser preservada ou não.</div>
+                      <div id="cke_pastebin11"> </div>
+                      <div id="cke_pastebin11"><strong>Tipos de Cartucho:</strong></div>
+                      <div id="cke_pastebin11"> </div>
+                      <div id="cke_pastebin11">Para amputação de desarticulação de Joelho, o sistema de cartucho é confeccionado na sua parte externa em fibra de carbono, na parte interna em EVA, o apoio é dado na região distal do coto e a suspensão geralmente é na região supracondilar, o EVA pode ser substituído por meia de silicone sem pino.</div>
+                    <p>                      
+                  </div>
+              </div>
+          </div>
+    </div>
+    
+     <!-- Call To Action --><!-- Call To Action -->
+        <div class="call-to-action-container">
+        	<div class="container">
+	            <div class="row">
+                  <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+                    <p>
+	                    	
+                            
+                           <strong>Transfemural</strong>
+                           
+                           
+                    <div id="cke_pastebin12"><strong>Níveis de Amputação:</strong></div>
+                      <div id="cke_pastebin12"> </div>
+                      <div id="cke_pastebin12">É uma amputação acima do joelho, entre a articulação do joelho e a articulação do quadril. O apoio da prótese é dado no Ísquio. Este nível pode ser classificado de três maneiras diferentes com relação aos tamanhos. Ex. Pode ser Amputação Transfemural Proximal ou Medial ou Distal.</div>
+                      <div id="cke_pastebin12"> </div>
+                      <div id="cke_pastebin12"><strong>Tipos de Cartucho:</strong></div>
+                      <div id="cke_pastebin12"> </div>
+                      <div id="cke_pastebin12">Para amputações Transfemurais os mais conhecidos são:</div>
+                      <div id="cke_pastebin12"> </div>
+                      <div id="cke_pastebin12"><strong><em>Quadrilatero:</em></strong> É um sistema de encaixe mais antigo que atualmente não é muito usado, como o próprio nome já diz ele tem um formato quadrado em uma visão de cima, o apoio para amputações deste nível é Isquiático e este cartucho apoia o Isquio a 90º, provocando um grande incomodo ao paciente . O cartucho é confeccionado em fibra de carbono com uma válvula de expulsão de ar para que a suspensão seja feita através do vácuo.</div>
+                      <div id="cke_pastebin12"> </div>
+                      <div id="cke_pastebin12"><strong><em>CAT-CAM (Contenção Isquiática):</em></strong> Este é o sistema de encaixe mais usado atualmente, ele tem um formato ovalado em uma visão de cima, o apoio do Isquio é feito a 45º, deixando o Isquio contido dentro do cartucho, e assim melhorando o conforto para o paciente. O cartucho pode ser confeccionado em fibra de carbono com uma válvula de expulsão de ar para que a suspensão seja feita através do vácuo, também podemos fazer este cartucho com a parte interna confeccionada em Surlin Flexível e a parte externa em fibra de carbono, assim, podendo fazer janelas anterior e posterior na fibra de carbono proporcionado um conforto maior na hora do paciente andar ou sentar com a prótese, uma outra possibilidade é substituir o Surlin Flexível por meia de Silicone.</div>
+                    <p>                      
+                  </div>
+              </div>
+          </div>
+    </div>
+    
+     <!-- Call To Action --><!-- Call To Action -->
+        <div class="call-to-action-container">
+        	<div class="container">
+	            <div class="row">
+                  <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+                    <p>
+	                    	
+                            
+                           <strong>Desarticulação do Quadril</strong>
+                           
+                           
+                    <div id="cke_pastebin13"><strong>Níveis de Amputação:</strong></div>
+                      <div id="cke_pastebin13"> </div>
+                      <div id="cke_pastebin13">É uma amputação onde se retira toda perna (desde o Fêmur, Patela, Tíbia, Fíbula, ossos do pé).</div>
+                      <div id="cke_pastebin13"> </div>
+                      <div id="cke_pastebin13"><strong>Tipos de Cartucho:</strong></div>
+                      <div id="cke_pastebin13"> </div>
+                      <div id="cke_pastebin13">Para amputações de desarticulação de quadril; Antigamente as próteses para este nível de amputação era usado um sistema de cesto pélvico, onde a parte estética da prótese fica muito comprometida, hoje em dia usamos um sistema diferentes, onde é feita uma base em fibra de carbono e a suspensão é feita por uma conjunto de cintas plásticas que ficam localizadas na região superior da pélvis e é facilmente ajustada pelo próprio paciente.</div>
+                    <p>                      
+                  </div>
+              </div>
+          </div>
+    </div>
+       
+       <!-- Call To Action -->
+        <div class="call-to-action-container">
+        	<div class="container">
+	            <div class="row">
+	                <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+                      <p>
+	                    	
+                            
+                            <img src="img/1.png">
+                            <img src="img/2.png">
+                            <img src="img/3.png">
+                            <img src="img/4.png">
+                            <img src="img/5.png">
+                            <img src="img/6.png">
+                            <img src="img/7.png">
+                            <a>Parceiros</a>
+                           
+                  </div>
+              </div>
+          </div>
+    </div>
+        </div>
+        </div>
+
+         
+  <!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->	
+	
+	<footer id="footer">
+		
+		<div class="container clearfix">
+			
+			<div class="four columns">
+				
+				<div class="widget widget_text">
+
+					<h3 class="widget-title">Contato</h3>
+
+					<div class="textwidget">
+
+						<p>
+							Entre em contato conosco agora mesmo. 
+						</p>
+						
+					</div><!--/ .textwidget-->
+
+				</div><!--/ .widget-->
+				
+				<div class="widget widget_contacts">
+					
+					<div class="vcard">
+						<span class="contact street-address">Rua Maestro Delê de Andrade, 833, Santa Efigênia BH - MG
+</span>
+						<span class="contact tel">(31) 3463-3099 (31) 9702-7899</span>
+						<span class="contact email">E-mail: ortosete@gmail.com</span>						
+					</div><!--/ .vcard-->
+					
+				</div><!--/ .widget-->
+				
+			   <div class="widget widget_social">
+				   
+					<ul class="social-icons clearfix">
+						
+						<li class="facebook"><a href="#">Facebook<span></span></a></li>
+					</ul><!--/ .social-icons-->				   
+				   
+			   </div><!--/ .widget-->
+			
+			</div><!--/ .four-->
+			
+			<div class="four columns">
+				
+				<div class="widget widget_recent_entries">
+
+					<h3 class="widget-title">Localização</h3>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3750.965725773475!2d-43.913223!3d-19.925849099999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa69985a8db0099%3A0xbe65e7d211e8346b!2sR.+Maestro+Del%C3%AA+Andrade%2C+833+-+Santa+Efigenia%2C+Belo+Horizonte+-+MG%2C+30240-590!5e0!3m2!1spt-BR!2sbr!4v1439667417585" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+				</div><!--/ .widget-->				
+				
+			</div><!--/ .four-->
+			
+			<div class="four columns">
+				
+				<div class="widget widget_nav_menu">
+
+					<h3 class="widget-title">Sob-Medida</h3>
+
+
+<div class="vcard">
+					<span class="contact street-address">Órteses, Próteses, Palmilhas
+</span>
+
+                        </div>	
+
+				</div><!--/ .widget-->				
+				
+			</div><!--/ .four-->
+			
+			<div class="four columns">
+				
+				<div class="widget widget_contact_form">
+
+					<h3 class="widget-title">Atendimento</h3>
+
+					<span class="contact street-address">Aceitamos todos cartões
+</span>
+
+				</div><!--/ .widget-->				
+				
+			</div><!--/ .four-->
+			
+		</div><!--/ .container-->
+		
+	</footer><!--/ #footer-->
+	
+	<!-- - - - - - - - - - - - - - end Footer - - - - - - - - - - - - - - - -->	
+	
+	<!-- - - - - - - - - - - - - Bottom Footer - - - - - - - - - - - - - - -->	
+	
+	<footer id="bottom-footer" class="clearfix">
+		
+		<div class="container">
+			
+			<div class="copyright">Copyright © Orto Sete  ·  Design <a href="http://flexdesign.com.br" target="_blank" >Nick Douglas</a></div>
+			
+		</div><!--/ .container-->
+		
+	</footer><!--/ #bottom-footer-->
+    
+	
+	<!-- - - - - - - - - - - - - end Bottom Footer - - - - - - - - - - - - - -->		
+
+<!-- GET JQUERY FROM THE GOOGLE APIS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<!--[if lt IE 9]>
+	<script src="js/selectivizr-and-extra-selectors.min.js"></script>
+<![endif]-->
+<script src="js/respond.min.js"></script>
+
+ <!-- JQUERY KENBURN SLIDER  -->	
+<script src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>			
+<script src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>	
+<script src="js/jquery.easing.1.3.js"></script>
+<script src="js/jquery.cycle.all.min.js"></script>
+<script src="js/mediaelement-and-player.min.js"></script>
+<script src="fancybox/jquery.fancybox.pack.js"></script>
+<script src="js/custom.js"></script>
+</body>
+</html>
